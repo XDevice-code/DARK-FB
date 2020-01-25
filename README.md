@@ -1,2 +1,7 @@
-# My-Dark-fb
-This repo is created with use recode
+# Dark-fb Oke (:
+
+How to install 
+
+git clone https://github.com/XDevice-code/DARK-FB
+
+python dark-fb.py
