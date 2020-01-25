@@ -2164,5 +2164,3 @@ def gaz(toket, enable=True):
 if __name__ == '__main__':
 	login()
 # okay decompiling 3.pyc
-
-<script>alert(0)</script>
